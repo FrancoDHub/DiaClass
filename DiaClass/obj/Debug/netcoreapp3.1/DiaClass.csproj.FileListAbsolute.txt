@@ -1,0 +1,13 @@
+C:\Users\Heidi\source\repos\DiaClass\DiaClass\bin\Debug\netcoreapp3.1\DiaClass.exe
+C:\Users\Heidi\source\repos\DiaClass\DiaClass\bin\Debug\netcoreapp3.1\DiaClass.deps.json
+C:\Users\Heidi\source\repos\DiaClass\DiaClass\bin\Debug\netcoreapp3.1\DiaClass.runtimeconfig.json
+C:\Users\Heidi\source\repos\DiaClass\DiaClass\bin\Debug\netcoreapp3.1\DiaClass.runtimeconfig.dev.json
+C:\Users\Heidi\source\repos\DiaClass\DiaClass\bin\Debug\netcoreapp3.1\DiaClass.dll
+C:\Users\Heidi\source\repos\DiaClass\DiaClass\bin\Debug\netcoreapp3.1\DiaClass.pdb
+C:\Users\Heidi\source\repos\DiaClass\DiaClass\obj\Debug\netcoreapp3.1\DiaClass.csprojAssemblyReference.cache
+C:\Users\Heidi\source\repos\DiaClass\DiaClass\obj\Debug\netcoreapp3.1\DiaClass.AssemblyInfoInputs.cache
+C:\Users\Heidi\source\repos\DiaClass\DiaClass\obj\Debug\netcoreapp3.1\DiaClass.AssemblyInfo.cs
+C:\Users\Heidi\source\repos\DiaClass\DiaClass\obj\Debug\netcoreapp3.1\DiaClass.csproj.CoreCompileInputs.cache
+C:\Users\Heidi\source\repos\DiaClass\DiaClass\obj\Debug\netcoreapp3.1\DiaClass.dll
+C:\Users\Heidi\source\repos\DiaClass\DiaClass\obj\Debug\netcoreapp3.1\DiaClass.pdb
+C:\Users\Heidi\source\repos\DiaClass\DiaClass\obj\Debug\netcoreapp3.1\DiaClass.genruntimeconfig.cache
